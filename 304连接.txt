@@ -1,14 +1,16 @@
 
-Á¬½ÓÌØ¶¨µÄ DNS ºó×º: 
-ÃèÊö: Intel(R) Ethernet Connection I218-V
-ÎïÀíµØÖ·: ?50-7B-9D-88-1F-2A
-ÒÑÆôÓÃ DHCP: ·ñ
-IPv4 µØÖ·: 192.168.34.2
-IPv4 ×ÓÍøÑÚÂë: 255.255.255.0
-IPv4 Ä¬ÈÏÍø¹Ø: 192.168.34.1
-IPv4 DNS ·þÎñÆ÷: 202.103.24.68
-IPv4 WINS ·þÎñÆ÷: 
-ÒÑÆôÓÃ NetBIOS over Tcpip: ÊÇ
-Á¬½Ó-±¾µØ IPv6 µØÖ·: fe80::9d4d:a510:b754:705%23
-IPv6 Ä¬ÈÏÍø¹Ø: 
-IPv6 DNS ·þÎñÆ÷: 
+è¿žæŽ¥ç‰¹å®šçš„ DNS åŽç¼€: 
+æè¿°: Intel(R) Ethernet Connection I218-V
+ç‰©ç†åœ°å€: ?50-7B-9D-88-1F-2A
+å·²å¯ç”¨ DHCP: å¦
+IPv4 åœ°å€: 192.168.34.2
+IPv4 å­ç½‘æŽ©ç : 255.255.255.0
+IPv4 é»˜è®¤ç½‘å…³: 192.168.34.1
+IPv4 DNS æœåŠ¡å™¨: 202.103.24.68
+IPv4 WINS æœåŠ¡å™¨: 
+å·²å¯ç”¨ NetBIOS over Tcpip: æ˜¯
+è¿žæŽ¥-æœ¬åœ° IPv6 åœ°å€: fe80::9d4d:a510:b754:705%23
+IPv6 é»˜è®¤ç½‘å…³: 
+IPv6 DNS æœåŠ¡å™¨: 
+---------------
+add annotation
